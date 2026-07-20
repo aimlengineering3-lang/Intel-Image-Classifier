@@ -1,0 +1,29 @@
+# Virtual Environment
+IIC-venv/
+venv/
+
+# Dataset
+dataset/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Output files
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
